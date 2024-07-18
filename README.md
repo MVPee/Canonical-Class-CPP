@@ -1,4 +1,4 @@
-# 42-canonical-class-cpp README
+# Canonical Class CPP
 
 Extension for Visual Studio Code that allows you to quickly generate C++ files with a canonical class structure. This extension is ideal for developers who want to automate the creation of standardized C++ classes.
 
@@ -23,6 +23,7 @@ Currently there are no known issues with this extension. If you encounter any bu
 First version of 42-canonical-class-cpp.
 
 Feature for generating .cpp and .hpp files with canonical class structure.
+
 ---
 
 **Enjoy!**
