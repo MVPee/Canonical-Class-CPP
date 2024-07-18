@@ -12,17 +12,6 @@ This extension does not require any special dependencies. Just make sure you hav
 
 Standardized class structure: The generated files include sections for constructors, destructors, operators, methods, accessors and exceptions.
 
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
 ## Known Issues
 
 Currently there are no known issues with this extension. If you encounter any bugs or issues, please open an issue on the GitHub repository.
